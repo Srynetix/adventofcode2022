@@ -1,9 +1,7 @@
 # Advent Of Code 2022
 
-[![Test](https://github.com/Srynetix/adventofcode2022/actions/workflows/test.yml/badge.svg)](https://github.com/Srynetix/adventofcode2022/actions/workflows/test.yml)
-[![Coverage Status](https://coveralls.io/repos/github/Srynetix/adventofcode2022/badge.svg)](https://coveralls.io/github/Srynetix/adventofcode2022?branch=main)
+[![Test](https://github.com/Srynetix/adventofcode2022/actions/workflows/ci.yml/badge.svg)](https://github.com/Srynetix/adventofcode2022/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Docs](https://img.shields.io/badge/docs-up--to--date-lightgrey)](https://srynetix.github.io/adventofcode2022/adventofcode2022)
 
 [Advent of Code 2022](https://adventofcode.com/2022/), in [Rust](https://www.rust-lang.org/) :crab:.
 
