@@ -1,0 +1,16 @@
+[package]
+name = "adventofcode2022"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = { version = "4.0.32", features = ["derive"] }
+color-eyre = "0.6.2"
+indoc = "1.0.8"
+itertools = "0.10.5"
+maplit = "1.0.2"
+owo-colors = "3.5.0"
+paste = "1.0.11"
+tap = "1.0.1"
