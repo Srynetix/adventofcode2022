@@ -9,6 +9,7 @@ fn main() {
         DayMap::new()
             .add(1, &|| run_day_macro!("01"))
             .add(2, &|| run_day_macro!("02"))
-            .add(3, &|| run_day_macro!("03")),
+            .add(3, &|| run_day_macro!("03"))
+            .add(4, &|| run_day_macro!("04")),
     )
 }
